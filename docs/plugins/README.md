@@ -5,7 +5,7 @@ This repository contains detailed information on all the built-in plugins availa
 
 ## 📜 Table of Contents
 
-Below is a list of all available plugins. Click on any plugin to view detailed documentation:
+Below is a list of all default plugins. Click on any plugin to view detailed documentation:
 
 - [Auto-Backup](auto-backup.md)
 - [Auto-Tune](auto-tune.md)
